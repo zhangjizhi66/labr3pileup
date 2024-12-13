@@ -1,0 +1,9 @@
+#### Gate2 initial settings ####
+rootfile    ../../data_release/gate2matrix_0117.root
+histname    hg2xyp hg2xy hg2xyb
+ncanvas     5            
+xmin       0
+xmax       4000         
+npeaks      30                
+dge        20
+opencross    2
